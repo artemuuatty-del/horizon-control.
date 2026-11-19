@@ -11,7 +11,7 @@ from telethon import TelegramClient
 logging.basicConfig(level=logging.INFO)
 
 # Твои данные
-BOT_TOKEN = "9088848826:AAEfoeMf-1xmAGJmDGDn1ZxMw_c-o8nNtOA"
+BOT_TOKEN = "9155261524:AAHD1hhuOGFNKHWzGml2r7L6fpkR63FfnE8"
 API_ID = 35556659
 API_HASH = "d3cfb86ad3d3ad1f98041e99207d17ad"
 
